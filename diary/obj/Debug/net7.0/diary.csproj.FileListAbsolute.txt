@@ -1,0 +1,15 @@
+/Users/kris/Projects/diary/diary/obj/Debug/net7.0/diary.csproj.AssemblyReference.cache
+/Users/kris/Projects/diary/diary/obj/Debug/net7.0/diary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kris/Projects/diary/diary/obj/Debug/net7.0/diary.AssemblyInfoInputs.cache
+/Users/kris/Projects/diary/diary/obj/Debug/net7.0/diary.AssemblyInfo.cs
+/Users/kris/Projects/diary/diary/obj/Debug/net7.0/diary.csproj.CoreCompileInputs.cache
+/Users/kris/Projects/diary/diary/bin/Debug/net7.0/diary
+/Users/kris/Projects/diary/diary/bin/Debug/net7.0/diary.deps.json
+/Users/kris/Projects/diary/diary/bin/Debug/net7.0/diary.runtimeconfig.json
+/Users/kris/Projects/diary/diary/bin/Debug/net7.0/diary.dll
+/Users/kris/Projects/diary/diary/bin/Debug/net7.0/diary.pdb
+/Users/kris/Projects/diary/diary/obj/Debug/net7.0/diary.dll
+/Users/kris/Projects/diary/diary/obj/Debug/net7.0/refint/diary.dll
+/Users/kris/Projects/diary/diary/obj/Debug/net7.0/diary.pdb
+/Users/kris/Projects/diary/diary/obj/Debug/net7.0/diary.genruntimeconfig.cache
+/Users/kris/Projects/diary/diary/obj/Debug/net7.0/ref/diary.dll
